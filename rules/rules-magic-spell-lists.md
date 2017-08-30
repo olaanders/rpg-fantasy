@@ -11,11 +11,14 @@ Trollkarlarnas respektive Andebesvärjarnas besvärjelselistor beskrivs nedan. D
 ## Förkortningar
 Vissa besvärjelser har en förkortning kopplade till sig. Nedan beskrivs vad dessa betyder och har för effekt.
 
-* _(D):_ Detta betyder att besvärjelsen är direkt, d.v.s att du kan kasta den utan att ha förberett den under en SR 
+* **(D):** Detta betyder att besvärjelsen är direkt, d.v.s att du kan kasta den utan att ha förberett den under en SR 
 (vilket är det normala). Ofta är dessa besvärjelser defensiva till sin natur.
-* _(C):_ Du måste koncentrera dig hela besvärjelsens funktionstid.
-* _(K):_ Offret får försöka motstå besvärjelsen. Detta görs genom att offret tillåts göra ett Närvaroslag (alternativt 
+* **(C):** Du måste koncentrera dig hela besvärjelsens funktionstid.
+* **(K):** Offret får försöka motstå besvärjelsen. Detta görs genom att offret tillåts göra ett Närvaroslag (alternativt 
 Magiskt försvar) mot magikerns Magi slag (se Tvekamp – aktivt motstånd i reglerna). Offret räknas som den passive i 
 tvekampen.
-* _(R):_ Dessa besvärjelser är mer ritualer och tar längre tid att frammana. Hur lång tid beskrivs under själva 
+* **(R):** Dessa besvärjelser är mer ritualer och tar längre tid att frammana. Hur lång tid beskrivs under själva 
 besvärjelsen.
+
+## Andebesvärjarens besvärjelselistor
+* [Ljudet och Ljusets Väg](/rules/spells/sorcerer-sound-and-light.md)
