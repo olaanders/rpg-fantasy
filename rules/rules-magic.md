@@ -5,4 +5,4 @@ Här beskrivs reglerna för magi och magiker.
 * [Hur blir jag bättre?](/rules-magic-experience.md){:target="_blank"}
 * [Kasta en besvärjelse](/rules-magic-spellcasting.md){:target="_blank"}
 * [Formelsamlingen](/rules-magic-spell-book.md){:target="_blank"}
-* [Besvärjelselistor](/rules/rules-magic-spell-lists){:target="_blank"}
+* [Besvärjelselistor](/rules/rules-magic-spell-lists.md){:target="_blank"}
