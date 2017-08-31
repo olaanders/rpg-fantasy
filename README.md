@@ -5,3 +5,4 @@
 ## Regler
 * [Quick Sheet](/pdfs/fantasy-regler.pdf){:target="_blank"}
 * [Magi](/rules/rules-magic.md){:target="_blank"}
+* [Strid](/rules/rules-combat.md){:target="_blank"}
