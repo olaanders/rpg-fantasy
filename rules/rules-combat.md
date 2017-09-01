@@ -26,21 +26,21 @@ handlingar avgör av SL.
 
 |Hela handlingar|
 |---------------|
-|_Attackera/Försvara:_ Du får bara utföra en Attack under en SR. Dock får du Försvara dig flera gånger under SR.|
-|_Chockattack:_ Du kan förflytta dig mot en fiende upp till din Fysik x 2 meter och Attackera/Försvara dig. Med denna attack får du +1 på din Attack dock får du som mest lägga halva dina Stridstärningar på Försvar.|
-|_Kasta dig i skydd:_ Om du blir attackerad av ett närstridsvapen och ser attacken kan du kasta dig i skydd med hälften av dina Stridstärningar (du får även använda sköld). Observera att du inte får utföra en Attack efter denna handling.|
-|_Sprinta:_ Förflytta dig din Fysik x 4 meter (max 20 meter för humanoider).|
-|_Förbereda en besvärjelse:_ Samla de astrala krafterna och utföra den inkarnation som besvärjelsen kräver.|
+|<u>Attackera/Försvara:</u> Du får bara utföra en Attack under en SR. Dock får du Försvara dig flera gånger under SR.|
+|<u>Chockattack:</u> Du kan förflytta dig mot en fiende upp till din Fysik x 2 meter och Attackera/Försvara dig. Med denna attack får du +1 på din Attack dock får du som mest lägga halva dina Stridstärningar på Försvar.|
+|<u>Kasta dig i skydd:</u> Om du blir attackerad av ett närstridsvapen och ser attacken kan du kasta dig i skydd med hälften av dina Stridstärningar (du får även använda sköld). Observera att du inte får utföra en Attack efter denna handling.|
+|<u>Sprinta:</u> Förflytta dig din Fysik x 4 meter (max 20 meter för humanoider).|
+|<u>Förbereda en besvärjelse:</u> Samla de astrala krafterna och utföra den inkarnation som besvärjelsen kräver.|
 
 |Halva handlingar|
 |----------------|
-|_Förflyttning:_ Röra dig upp till din Fysik x 2 meter (max 10 meter för humanoider).|
-|_Plocka upp ett föremål:_ Dra ett vapen, plocka upp en läkande dekokt osv.|
-|_Resa dig upp:_ Ta dig upp fötter eller upp på en hästrygg.|
+|<u>Förflyttning:</u> Röra dig upp till din Fysik x 2 meter (max 10 meter för humanoider).|
+|<u>Plocka upp ett föremål:</u> Dra ett vapen, plocka upp en läkande dekokt osv.|
+|<u>Resa dig upp:</u> Ta dig upp fötter eller upp på en hästrygg.|
 
 |Fria handlingar|
 |---------------|
-|_Aktivera en besvärjelse:_ Om du föregående SR Förberede en besvjärjelse aktiveras den med denna handling.|
-|_Släppa något:_ Släpp något som du håller i händerna.|
-|_Ropa ut en varning:_ ...eller kort mening.|
-|_Försvar:_ Om du blir attackerad i närstrid får du parera/ducka med de Stridstärningar du reserverat för Försvar.|   
+|<u>Aktivera en besvärjelse:</u> Om du föregående SR Förberede en besvjärjelse aktiveras den med denna handling.|
+|<u>Släppa något:</u> Släpp något som du håller i händerna.|
+|<u>Ropa ut en varning:</u> ...eller kort mening.|
+|<u>Försvar:</u> Om du blir attackerad i närstrid får du parera/ducka med de Stridstärningar du reserverat för Försvar.|   
