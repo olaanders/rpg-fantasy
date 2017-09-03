@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a53213-20d0-49f2-b6d3-ee9ab57fe49e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rules/rules-pc-skills.md" afterPath="$PROJECT_DIR$/rules/rules-pc-skills.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rules/rules-pc-index.md" afterPath="$PROJECT_DIR$/rules/rules-pc-index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/rules/rules-pc-index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="63">
-                <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/rules/rules-pc-skills.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="448">
-                <caret line="48" column="56" lean-forward="false" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+              <first_editor relative-caret-position="94">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -275,12 +274,12 @@
       <workItem from="1504259603543" duration="1310000" />
       <workItem from="1504337065955" duration="270000" />
       <workItem from="1504426962633" duration="641000" />
-      <workItem from="1504458944716" duration="5766000" />
+      <workItem from="1504458944716" duration="6106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19422000" />
+    <option name="totallyTimeSpent" value="19762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
@@ -683,8 +682,8 @@
     <entry file="file://$PROJECT_DIR$/rules/rules-pc-index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="63">
-            <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
             <folding />
           </first_editor>
           <second_editor />
@@ -694,8 +693,8 @@
     <entry file="file://$PROJECT_DIR$/rules/rules-pc-skills.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="448">
-            <caret line="48" column="56" lean-forward="false" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+          <first_editor relative-caret-position="94">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

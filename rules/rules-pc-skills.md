@@ -9,6 +9,8 @@ Notera att bonus för förmågor kan ackumuleras.
 
 Spelarna kan komma egna Förmågor med SL:s goda minne.
 
+|**Förmåga**|Beskrivning|
+|-----------|-----------|
 |**Brottning**|+1 vid fasthållning eller kast av en motståndare.|
 |**Boxare**|+1 på Attackslag vid obeväpnad strid.|
 |**Bågskytte**|+1 vid när du använder projektilvapen.|
