@@ -37,7 +37,31 @@ handlingar avgör av SL.
 * <u>Resa dig upp:</u> Ta dig upp fötter eller upp på en hästrygg.
 
 #### Fria handlingar
-* <u>Aktivera en besvärjelse:</u> Om du föregående SR Förberede en besvjärjelse aktiveras den med denna handling.
+* **Aktivera en besvärjelse:** Om du föregående SR Förberede en besvjärjelse aktiveras den med denna handling.
 * <u>Släppa något:</u> Släpp något som du håller i händerna.
 * <u>Ropa ut en varning:</u> ...eller kort mening.
-* <u>Försvar:</u> Om du blir attackerad i närstrid får du parera/ducka med de Stridstärningar du reserverat för Försvar.   
+* <u>Försvar:</u> Om du blir attackerad i närstrid får du parera/ducka med de Stridstärningar du reserverat för Försvar.
+
+## Anfall och Försvar
+
+### Närstridsanfall mot Avståndsattacker
+Om du strider med ett avståndsvapen och någon
+rusar på dig med ett närstridsvapen innan du
+hinner skjuta/kasta så får du ändå använda ditt
+avståndsvapen i striden. SR därpå är du dock in
+närstrid och kan inte använda ditt avståndsvapen
+(annat än som ett improviserat vapen).
+
+### Avståndsattacker
+Antalet Försvarstärningar du får använda när någon 
+attackerar dig med ett avstånd beror på avståndet
+mellan dig och skytten. 
+
+* **Kort:** 2
+* **Medel:** 3
+* **Långt:** 5
+
+Andra omständigheter som påverkar dina Försvarstärningar
+när du blir påskjuten är.
+
+* **Sköld:** +3 om du har skölden uppe och riktad mot skytten
