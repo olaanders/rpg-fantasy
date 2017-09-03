@@ -42,6 +42,12 @@ när du blir påskjuten är.
 * **Inbegripen i närstrid:** +1 om du är i närstrid med en motståndare
 som skytten vill undvika att träffa
 
+## Marginalen för din attack
+Håll reda på din Marginal (antalet lyckade tärningar över
+din motståndares antal lyckade försvarstärningar). Marginalen
+får du använda när du sedan slår ditt Skadeslag (se 
+[])
+
 ## Särskilda situationer
 
 ### Ovetande om attacken

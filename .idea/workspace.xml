@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a53213-20d0-49f2-b6d3-ee9ab57fe49e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-fear.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rules/rules-combat.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-misc.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md" afterPath="$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md" afterPath="$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="31" />
+              <first_editor relative-caret-position="189">
+                <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="40" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -31,12 +31,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rules-fear.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rules-misc.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rules/rules-misc.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rules-fear.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rules/rules-fear.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="651">
-                <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <first_editor relative-caret-position="210">
+                <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -57,12 +70,38 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="rules-combat-damage-and-healing.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="756">
+                <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="rules-combat-weapons-and-armour.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+              <first_editor relative-caret-position="364">
+                <caret line="73" column="17" lean-forward="false" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rules-combat-attack-and-defence.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="469">
+                <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -92,11 +131,12 @@
         <option value="$PROJECT_DIR$/rules/rules-magic-spell-lists.md" />
         <option value="$PROJECT_DIR$/rules/rules-combat.md" />
         <option value="$PROJECT_DIR$/rules/rules-combat-the-round.md" />
+        <option value="$PROJECT_DIR$/rules/rules-fear.md" />
         <option value="$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md" />
         <option value="$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md" />
+        <option value="$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md" />
         <option value="$PROJECT_DIR$/rules/rules-combat-index.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/rules/rules-fear.md" />
       </list>
     </option>
   </component>
@@ -286,12 +326,12 @@
       <workItem from="1504259603543" duration="1310000" />
       <workItem from="1504337065955" duration="270000" />
       <workItem from="1504426962633" duration="641000" />
-      <workItem from="1504458944716" duration="3653000" />
+      <workItem from="1504458944716" duration="4790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17309000" />
+    <option name="totallyTimeSpent" value="18446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
@@ -603,11 +643,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rules/rules-fear.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="469">
-            <caret line="96" column="21" lean-forward="true" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+            <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
@@ -617,8 +668,19 @@
     <entry file="file://$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <first_editor relative-caret-position="364">
+            <caret line="73" column="17" lean-forward="false" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="756">
+            <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
@@ -639,19 +701,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="31" />
+          <first_editor relative-caret-position="189">
+            <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rules/rules-fear.md">
+    <entry file="file://$PROJECT_DIR$/rules/rules-misc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="651">
-            <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

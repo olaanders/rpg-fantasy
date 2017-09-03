@@ -54,7 +54,7 @@ att bära rustning får du använda fler tärningar.
 
 Antalet tärningar som du får lägga till ditt 
 Räddningsslag är lika med rustningens modifikation
-(se nedan).
+(se [Skador och Helning](rules-combat-damage-and-healing.md)).
 
 **Observera** att sköldens modifikation avser din
 bonus till ditt Försvar.
@@ -72,68 +72,4 @@ om man bär tyngre rustning än läder.
 |Läderrustning|+2|
 |Metallrustning|+4|
 |Dvärgrustning|+6|
-|Sköld3|+3|
-
-## Kroppspoäng (KP) och Skador
-Observera att modifikationer för Skråmor och
-Sår utgår.
-
-Skador dras först från TKP för att sedan gå in på
-KP. Om KP når noll måste du slå ett Fysikslag
-mot SVG 2. Misslyckas slaget har din RP dött.
-
-Lyckas slaget är du fortfarande på benen men
-väldigt illa däran och får en -2 modifikation på, i
-princip, alla dina Handlingsslag tills dess att du
-har minst 1 KP igen.
-
-**Observera** att Allvarliga skador – skadechock utgår.
-
-### Konstruktionspoäng
-Även saker har ”KP”. Dessa kallas för Konstruktionspoäng.
-
-### Andra typer av skador
-**Brännskador:** Skador från eld, syra och viss
-form av magi skadar som vanligt. Eld och fackla
-ger 1 KP i skada per SR. Eld som drabbar hela
-kroppen (hela kroppen sätts i brand) ger 5 KP
-per SR. Rustningar skyddar som vanligt men
-bara första SR.
-
-**Kvävning:** Du klarar dig utan syra i ca 2
-minuter, efter det måste du slå ett Fysikslag
-varannan SR med SVG 1. SVG ökar med 1 per
-SR. Misslyckas slaget dör din RP inom 1T SR.
-
-**Fall:** Vid fall över 20 meter är utgången alltid
-döden. Rustningar hjälper bara med halv effekt vid 
-fallskador (ex.v. har en läderrustning endast +1
-i modifikation vid fallskada).
-
-|Fallhöjd|Skada|
-|--------|-----|
-|3-5 m|2|
-|6-7 m|4|
-|8-10 m|6|
-|11-15 m|8|
-|16-20 m| 5T
-|Längre fall|Död|
-
-**Gift:** Varje gift har en Styrka, vanligtvis mellan
-1-6. Om du drabbas av gift måste du slå ett
-Fysikslag med giftets Styrka som SVG.
-Misslyckas du drabbas du av giftets effekt.
-
-## Läkning av skador
-Om du har fått möjlighet att vila i minst 6 timmar
-får du chansen att naturligt läka dina skador.
-
-Efter du har vilat får du slå ett Fysikslag. Antalet
-lyckade tärningar är lika med det antal KP som du läkt.
-Om du fått vård innan du vilar får du +1 på slaget. 
-
-Om du får chansen att vila en längre tid (ett par
-veckor) och har tillgång till värme, mat och
-vatten återställer du alla dina TKP och KP. Det
-kan gå snabbare om du har tillång till vård. SL
-avgör.
+|Sköld|+3|

@@ -7,3 +7,4 @@
 * [Magi](/rules/rules-magic-index.md){:target="_blank"}
 * [Strid](/rules/rules-combat-index.md){:target="_blank"}
 * [Skräck](/rules/rules-fear.md){:target="_blank"}
+* [Blandade regler](/rules/rules-misc.md){:target="_blank"}
