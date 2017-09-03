@@ -31,6 +31,7 @@ Om du har hälften eller fler 1 så har du fumlat
 att lyckas med handlingen.
 
 ## Vilken Egenskap ska jag använda?
+
 |Färdighet|Egenskap|
 |---------|--------|
 |Akrobatik|Fysik|
