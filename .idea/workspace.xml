@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a53213-20d0-49f2-b6d3-ee9ab57fe49e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-misc.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-pc-mana.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-player-character.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md" afterPath="$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md" afterPath="$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md" afterPath="$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="40" />
+              <first_editor relative-caret-position="126">
+                <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="68" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -31,12 +30,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rules-misc.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rules/rules-misc.md">
+      <file leaf-file-name="rules-player-character.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rules/rules-player-character.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="42">
+                <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="25" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rules-pc-mana.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rules/rules-pc-mana.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rules-misc.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rules/rules-misc.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="259">
+                <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -74,34 +99,8 @@
         <entry file="file://$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="756">
-                <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rules-combat-weapons-and-armour.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="364">
-                <caret line="73" column="17" lean-forward="false" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rules-combat-attack-and-defence.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="469">
-                <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+              <first_editor relative-caret-position="336">
+                <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -134,9 +133,12 @@
         <option value="$PROJECT_DIR$/rules/rules-fear.md" />
         <option value="$PROJECT_DIR$/rules/rules-combat-attack-and-defence.md" />
         <option value="$PROJECT_DIR$/rules/rules-combat-weapons-and-armour.md" />
-        <option value="$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md" />
         <option value="$PROJECT_DIR$/rules/rules-combat-index.md" />
+        <option value="$PROJECT_DIR$/rules/rules-misc.md" />
+        <option value="$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/rules/rules-player-character.md" />
+        <option value="$PROJECT_DIR$/rules/rules-pc-mana.md" />
       </list>
     </option>
   </component>
@@ -326,12 +328,12 @@
       <workItem from="1504259603543" duration="1310000" />
       <workItem from="1504337065955" duration="270000" />
       <workItem from="1504426962633" duration="641000" />
-      <workItem from="1504458944716" duration="4790000" />
+      <workItem from="1504458944716" duration="5200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18446000" />
+    <option name="totallyTimeSpent" value="18856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
@@ -676,17 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="756">
-            <caret line="36" column="44" lean-forward="false" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rules/rules-combat-index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -698,22 +689,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/rules/rules-misc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="40" />
+          <first_editor relative-caret-position="259">
+            <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rules/rules-misc.md">
+    <entry file="file://$PROJECT_DIR$/rules/rules-combat-damage-and-healing.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="68" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rules/rules-player-character.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rules/rules-pc-mana.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />

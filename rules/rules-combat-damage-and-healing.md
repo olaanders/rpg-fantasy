@@ -16,9 +16,10 @@ har minst 1 KP igen.
 
 ## Skadeslag och Räddningsslag
 När du tar skada slår din motståndare en näve med
-"skadetärningar" vilket normalt sett är vapnets
+"skadetärningar", ett Skadeslag. Antalet tärningar
+som används är normalt sett lika med vapnets
 modifikation och eventuell bonus för Förmågor samt
-Marginale för attacken.
+Marginalen för attacken.
 
 Antalet lyckade tärningar är de antal KP som du tar
 i skada. **Men** du tillåts göra ett så kallat

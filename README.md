@@ -3,7 +3,8 @@
 # It's like Dungeons and Dragons, but real.
 
 ## Regler
-* [Quick Sheet](/pdfs/fantasy-regler.pdf){:target="_blank"}
+* [Quick Sheet](/pdfs/fantasy-regler.pdf){:target="_blank"} - **Deprecated**
+* [Rollpersonen](/rules/rules-pc-index.md){:target="_blank"}
 * [Magi](/rules/rules-magic-index.md){:target="_blank"}
 * [Strid](/rules/rules-combat-index.md){:target="_blank"}
 * [Skräck](/rules/rules-fear.md){:target="_blank"}
