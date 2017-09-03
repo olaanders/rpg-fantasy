@@ -6,3 +6,4 @@
 * [Quick Sheet](/pdfs/fantasy-regler.pdf){:target="_blank"}
 * [Magi](/rules/rules-magic-index.md){:target="_blank"}
 * [Strid](/rules/rules-combat-index.md){:target="_blank"}
+* [Skräck](/rules/rules-fear.md){:target="_blank"}
