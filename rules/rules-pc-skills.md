@@ -22,10 +22,8 @@ Spelarna kan komma egna Förmågor med SL:s goda minne.
 |**Gott rykte**|+1 på ditt Handlingsslag när du försöker påverka en person som vet vem du är.|
 |**Hota**|+1 när du försöker få någon att göra något mot sin vilja.|
 |**Immun**|+1 på ditt Fysikslag när du försöker motstå gift och sjukdomar.|
-|**Instinktivt anfall**|En gång per nivå, under en strid, får du använda Närvaro istället för Fysik för
-ditt Attackslag.|
-|**Kasta**|+1 på Handlings- och Attackslag som innebär att du försöker pricka något med ett kast
-(kastvapen ex.v.).|
+|**Instinktivt anfall**|En gång per nivå, under en strid, får du använda Närvaro istället för Fysik för ditt Attackslag.|
+|**Kasta**|+1 på Handlings- och Attackslag som innebär att du försöker pricka något med ett kast (kastvapen ex.v.).|
 |**Knivkämpe**|+1 på ditt Attackslag när du använder korta vapen i närstrid.|
 |**Köpslå**|+1 på ditt Närvaroslag när du förhandlar om priser.|
 |**Lokalsinne**|+1 på ditt Närvaroslag när du behöver orientera dig eller navigera.|
@@ -34,17 +32,14 @@ ditt Attackslag.|
 |**Nerver av stål**|+1 på de Skräcktest du tvingas att slå.|
 |**Prickskytt**|+1 i skadebonus när du gör skada med avståndsvapen.|
 |**Skarp blick**|+1 på ditt Närvaroslag när du försöker upptäcka något med hjälp av din syn.|
-|**Slug ripost**|En gång per nivå, under en strid, får du använda Intelligens istället för Fysik för ditt
-Attackslag.|
+|**Slug ripost**|En gång per nivå, under en strid, får du använda Intelligens istället för Fysik för ditt Attackslag.|
 |**Sköldtränad**|+1 på ditt Försvarsslag om du använder sköld i strid.|
 |**Slår hårt**|+1 bonus på ditt Skadeslag i närstrid.|
 |**Smyga**|+1 på ditt Fysikslag när du försöker gömma dig eller smyga.|
 |**Spåra**|+1 på ditt Närvaroslag när du spårar någon eller något.|
 |**Stidsvana**|+1 på ditt Fysikslag i närstrid samt +1 TKP.|
 |**Upptäcka**|+1 på ditt Närvaroslag när du försöker upptäcka någon som ligger dold för dig.|
-|**Vildmarksvana**|+1 på ditt Intelligensslag när du är i vildmarken och behöver slå för något som
-har med överlevnad att göra (dock ej strid).|
+|**Vildmarksvana**|+1 på ditt Intelligensslag när du är i vildmarken och behöver slå för något som har med överlevnad att göra (dock ej strid).|
 |**Yxkämpe**|+1 på ditt Fysikslag när du använder någon form av yxa eller klubba som vapen.|
-|**Överraskningsattack**|+1 på ditt Fysikslag och +1 i skadebonus när du attackerar ett ovetande
-offer.|
+|**Överraskningsattack**|+1 på ditt Fysikslag och +1 i skadebonus när du attackerar ett ovetande offer.|
 |**Övertyga**|+1 på ditt Närvaroslag när du diskuterar och försöker övertyga personer.| 

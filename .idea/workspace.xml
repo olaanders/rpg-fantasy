@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a53213-20d0-49f2-b6d3-ee9ab57fe49e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules/rules-pc-experience.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rules/rules-pc-skills.md" afterPath="$PROJECT_DIR$/rules/rules-pc-skills.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,12 +40,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rules-pc-experience.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rules-pc-experience.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rules/rules-pc-experience.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+              <first_editor relative-caret-position="252">
+                <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -66,12 +66,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rules-pc-skills.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="rules-pc-skills.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rules/rules-pc-skills.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="280">
-                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <first_editor relative-caret-position="272">
+                <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -111,9 +111,9 @@
         <option value="$PROJECT_DIR$/rules/rules-player-character.md" />
         <option value="$PROJECT_DIR$/rules/rules-pc-mana.md" />
         <option value="$PROJECT_DIR$/rules/rules-pc-index.md" />
-        <option value="$PROJECT_DIR$/rules/rules-pc-skills.md" />
         <option value="$PROJECT_DIR$/rules/rules-pc-actions.md" />
         <option value="$PROJECT_DIR$/rules/rules-pc-experience.md" />
+        <option value="$PROJECT_DIR$/rules/rules-pc-skills.md" />
       </list>
     </option>
   </component>
@@ -303,12 +303,12 @@
       <workItem from="1504259603543" duration="1310000" />
       <workItem from="1504337065955" duration="270000" />
       <workItem from="1504426962633" duration="641000" />
-      <workItem from="1504458944716" duration="6882000" />
+      <workItem from="1504458944716" duration="6968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20538000" />
+    <option name="totallyTimeSpent" value="20624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="0" />
@@ -708,17 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rules/rules-pc-skills.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="280">
-            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rules/rules-pc-actions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -744,8 +733,19 @@
     <entry file="file://$PROJECT_DIR$/rules/rules-pc-experience.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <first_editor relative-caret-position="252">
+            <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rules/rules-pc-skills.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
