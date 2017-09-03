@@ -18,16 +18,9 @@ Spelarna kan komma egna Förmågor med SL:s goda minne.
 |**Elegant attack**|En gång per nivå, under en strid, får du använda Motorik istället för Fysik för ditt Attackslag.|
 |**Fingerfärdighet**|+1 på hantera fällor, stjäla något och vid låsdyrkning.|
 |**Fäktning**|+1 på Attackslaget vid användandet av svärd.|
-|**Första hjälpen**|+1 på Intelligensslaget när du vårdar någon skadad. Lyckas slaget har du
-stoppat blödningar och den skadade återfår genast lika många KP som Marginalen (se Att
-utföra handlingar nedan). Observera att TKP måste helas innan KP kan helas. Du kan försöka 
-utföra Första hjälpen på en och samma person tre gånger med -1 för varje försök efter det första 
-innan du måste ge upp. Du får tre nya försök dagen därpå. Om personen blir
-skadad på nytt får du försöka lägga om den nya skadan.
-Om du inte har förband eller liknande får du -1
-när du försöker dig på Första hjälpen.|
+|**Första hjälpen**|+1 på Intelligensslaget när du vårdar någon skadad. Lyckas slaget har du stoppat blödningar och den skadade återfår genast lika många KP som Marginalen (se Att utföra handlingar nedan). Observera att TKP måste helas innan KP kan helas. Du kan försöka  utföra Första hjälpen på en och samma person tre gånger med -1 för varje försök efter det första innan du måste ge upp. Du får tre nya försök dagen därpå. Om personen blir skadad på nytt får du försöka lägga om den nya skadan. Om du inte har förband eller liknande får du -1 när du försöker dig på Första hjälpen.|
 
-
+d
 |**Gott rykte**|+1 på ditt Handlingsslag när du försöker påverka en person som vet vem du är.|
 |**Hota**|+1 när du försöker få någon att göra något mot sin vilja.|
 |**Immun**|+1 på ditt Fysikslag när du försöker motstå gift och sjukdomar.|
