@@ -69,7 +69,7 @@ om man bär tyngre rustning än läder.
 
 |Rustning|Modifikation|
 |--------|------------|
-|Läderrustning|+2|
-|Metallrustning|+4|
-|Dvärgrustning|+6|
+|Läderrustning|+1|
+|Metallrustning|+2|
+|Dvärgrustning|+3|
 |Sköld|+3|

@@ -34,7 +34,7 @@ Vättens Marginal på attacken blev 2 och träklubban
 har en +1 modifikation. Skadeslaget slå alltså med
 3 tärningar varav 2 blir lyckade. Brytbald slår nu
 sitt Räddningsslag med 3 tärningar, 1 bastärning
-och +2 för att han bär läderrustning. Han får 1 
+och +2 för att han bär metallrustning. Han får 1 
 lyckad tärning och tar således 1 KP i skada.
 
 ## Konstruktionspoäng
