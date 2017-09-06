@@ -48,7 +48,7 @@ kroppen (hela kroppen sätts i brand) ger 5 KP
 per SR. Rustningar skyddar som vanligt men
 bara första SR.
 
-**Kvävning:** Du klarar dig utan syra i ca 2
+**Kvävning:** Du klarar dig utan syre i ca 2
 minuter, efter det måste du slå ett Fysikslag
 varannan SR med SVG 1. SVG ökar med 1 per
 SR. Misslyckas slaget dör din RP inom 1T SR.
