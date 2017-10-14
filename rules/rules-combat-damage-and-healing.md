@@ -48,6 +48,15 @@ kroppen (hela kroppen sätts i brand) ger 5 KP
 per SR. Rustningar skyddar som vanligt men
 bara första SR.
 
+Även om du helar upp alla KP som du ådragit dig till
+följd av en brännskada får du -1 på dina 
+Handlingsslag tills dess att du fått vård
+av någon med medicinsk expertis (räcker alltså 
+inte med Hela) eller liknande.
+
+**Köldskador:** Fungerar i allt väsentligt som
+Brännskador.
+
 **Kvävning:** Du klarar dig utan syra i ca 2
 minuter, efter det måste du slå ett Fysikslag
 varannan SR med SVG 1. SVG ökar med 1 per

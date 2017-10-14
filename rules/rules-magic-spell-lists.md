@@ -20,5 +20,6 @@ tvekampen.
 * **(R):** Dessa besvärjelser är mer ritualer och tar längre tid att frammana. Hur lång tid beskrivs under själva 
 besvärjelsen.
 
-## Andebesvärjarens besvärjelselistor
-* [Ljudet och Ljusets Väg](/rules/spells/sorcerer-sound-and-light.md)
+## Besvärjelselistor
+[Andebesvärjarens besvärjelselistor](/pdfs/fantasy-andebesvarjarens-besvarjelse-listor.pdf)
+[Trollkarlens besvärjelselistor](/pdfs/fantasy-trollkarlens-besvarjelse-listor.pdf)

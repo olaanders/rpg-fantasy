@@ -38,6 +38,8 @@ Spelarna kan komma egna Förmågor med SL:s goda minne.
 |Smyga|+1 på ditt Fysikslag när du försöker gömma dig eller smyga.|
 |Spåra|+1 på ditt Närvaroslag när du spårar någon eller något.|
 |Stidsvana|+1 på ditt Fysikslag i närstrid samt +1 TKP.|
+|Två vapen*|Om du lyckas med detta slag (_Fri handling_) får du attackera en extra gång
+med ett vapen som du håller i din andra hand med halva antalet Stridstärningar som du för har i innevarande SR|
 |Upptäcka|+1 på ditt Närvaroslag när du försöker upptäcka någon som ligger dold för dig.|
 |Vildmarksvana|+1 på ditt Intelligensslag när du är i vildmarken och behöver slå för något som har med överlevnad att göra (dock ej strid).|
 |Yxkämpe|+1 på ditt Fysikslag när du använder någon form av yxa eller klubba som vapen.|
