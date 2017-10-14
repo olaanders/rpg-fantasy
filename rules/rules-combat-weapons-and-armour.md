@@ -50,7 +50,7 @@ du inte kravet kan du fortfarande använda det men
 då med med en -2 modifikation.
 
 Om du använder ett tvåhandsvapen och uppfyller
-Fysikkravet +1 kan du använda ett tvåhandsvapen
+Fysikkravet +2 kan du använda ett tvåhandsvapen
 i vardera hand om du har Förmågan _Två Vapen_.
 
 ## Improviserade vapen
