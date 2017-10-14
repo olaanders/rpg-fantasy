@@ -46,7 +46,7 @@ som skytten vill undvika att träffa
 Håll reda på din Marginal (antalet lyckade tärningar över
 din motståndares antal lyckade försvarstärningar). Marginalen
 får du använda när du sedan slår ditt Skadeslag (se 
-[])
+[Kroppspoäng (KP) och Skador](rules-combat-damage-and-healing.md))
 
 ## Särskilda situationer
 
