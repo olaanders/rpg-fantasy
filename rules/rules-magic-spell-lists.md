@@ -21,5 +21,5 @@ tvekampen.
 besvärjelsen.
 
 ## Besvärjelselistor
-[Andebesvärjarens besvärjelselistor](/pdfs/fantasy-andebesvarjarens-besvarjelse-listor.pdf)
-[Trollkarlens besvärjelselistor](/pdfs/fantasy-trollkarlens-besvarjelse-listor.pdf)
+* [Andebesvärjarens besvärjelselistor](../pdfs/fantasy-andebesvarjarens-besvarjelse-listor.pdf)
+* [Trollkarlens besvärjelselistor](../pdfs/fantasy-trollkarlens-besvarjelse-listor.pdf)
