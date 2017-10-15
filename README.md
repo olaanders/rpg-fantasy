@@ -2,7 +2,7 @@
 
 # It's like Dungeons and Dragons, but real.
 
-## Regler version 2.0.0
+## Regler version 2.1.0
 * [Quick Sheet](/pdfs/fantasy-regler.pdf){:target="_blank"} 
 * [Tabellhäfte](/pdfs/fantasy-tabellhäfte.pdf){:target="_blank"}
 * [Rollpersonen](/rules/rules-pc-index.md){:target="_blank"}
